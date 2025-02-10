@@ -24,4 +24,5 @@ Once the receiver (server) is initiated it will be listening to the ZeroMQ REP s
 	reply = f"Elapsed Time: {elapsed_time:.2f}, Remaining Time: {remaining_time:.2f}"
 	socket.send_string(reply) 
 
+# UML Sequence Diagram:
 ![image](https://github.com/user-attachments/assets/58d2a5f7-2e86-4411-ba76-d007cb779c04)
