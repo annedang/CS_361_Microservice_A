@@ -25,4 +25,5 @@ Once the receiver (server) is initiated it will be listening to the ZeroMQ REP s
 	socket.send_string(reply) 
 
 # UML Sequence Diagram:
-![image](https://github.com/user-attachments/assets/58d2a5f7-2e86-4411-ba76-d007cb779c04)
+![image](https://github.com/user-attachments/assets/4ed6f3bc-87f7-44cd-9215-de72eb7d2164)
+
